@@ -1,3 +1,15 @@
+
+# Arham's First CS193 Homework
+## Header 2
+### Header 3
+
+- Both the instructors are freindly and awesome.
+- No PSO in the first week
+- The instructors are so good that we all are going to get A in this class.
+
+1. Numbered
+2. List
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -10,17 +22,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-# Arham's First CS193 Homework
-## Header 2
-### Header 3
-
-- Both the instructors are freindly and awesome.
-- No PSO in the first week
-- The instructors are so good that we all are going to get A in this class.
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
