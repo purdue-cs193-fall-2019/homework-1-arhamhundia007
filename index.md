@@ -1,11 +1,11 @@
 
 # Arham's First CS193 Homework
-## Header 2
-### Header 3
 
+### Some Favorite things about CS193
 - Both the instructors are freindly and awesome.
 - No PSO in the first week
 - The instructors are so good that we all are going to get A in this class.
+- The PSO intructors are also nice and helpful.
 
 1. Numbered
 2. List
